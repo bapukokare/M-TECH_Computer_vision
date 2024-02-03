@@ -1,0 +1,16 @@
+
+Task: 
+1. Create virtual env  
+ pip install venv
+a. chekc conda env list 
+    conda activate env list
+. use conda 
+    conda create -n env_name
+b. use venv 
+    python -m venv /path/to/new/virtual/environment.
+
+
+2.  pip install -r requirements.txt
+
+
+You may face issue while creating env first time, so please keep practicing seperate environement for each seperate project.  
